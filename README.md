@@ -1,13 +1,14 @@
 # EE-322-Engineering-Design-VI
 ## I am in my third year at Stevens Institute of Technology studying electrical engineering.
 
-**This is my first time creating a GitHub repository**
+**This is my first time creating a GitHub repository.**  
+I am excited to learn about Github, Raspberry Pi, and Linux.
 
 ---
 
 *I enjoy exploring new opportunities and learning about developing technologies. I try to apply this perspective every day:*
   
-> "Make the most of every opportunity"
+> "Make the most of every opportunity!"
 
 ---
 
@@ -28,13 +29,13 @@ I am interested in these emerging technologies in power engineering:
 
 ---
 
-Here is my LinkedIn profile:
-[LinkedIn](https://www.linkedin.com/in/jernique-richardson-659573257/)
+I have coded in Arduino, C++ and Python. Here is a simple print statement in Python:  
+`print("Hello World!")`
 
 ---
 
-I have coded in Arduino, C++ and Python. Here is a simple print statement in Python:  
-`print("Hello World!")`
+Here is my LinkedIn profile:
+[LinkedIn](https://www.linkedin.com/in/jernique-richardson-659573257/)
 
 ---
 
