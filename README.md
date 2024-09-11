@@ -1,7 +1,10 @@
 # EE-322-Engineering-Design-VI
 ## I am in my third year at Stevens Institute of Technology studying electrical engineering.
 
-**This is my first time creating a GitHub repository**  
+**This is my first time creating a GitHub repository**
+
+---
+
 *I enjoy exploring new opportunities and learning about developing technologies. I try to apply this perspective every day:*
   
 > "Make the most of every opportunity"
@@ -30,7 +33,13 @@ Here is my LinkedIn profile:
 
 ---
 
+I have coded in Arduino, C++ and Python. Here is a simple print statement in Python:  
+`print("Hello World!")`
+
+---
+
 Christianity is an important aspect of my life. My favorite Bible verse is:   
+
 ![Psalm 143:8](https://github.com/Jernique27/EE-322---Engineering-Design-VI/blob/main/Psalm%20143_8.jpg)
 
 
