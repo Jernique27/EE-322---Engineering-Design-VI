@@ -26,7 +26,7 @@ I am interested in these emerging technologies in power engineering:
 ---
 
 Here is my LinkedIn profile:
-![LinkedIn](https://www.linkedin.com/in/jernique-richardson-659573257/)
+[LinkedIn](https://www.linkedin.com/in/jernique-richardson-659573257/)
 
 ---
 
