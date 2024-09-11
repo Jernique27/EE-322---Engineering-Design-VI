@@ -1,4 +1,4 @@
-# EE-322---Engineering-Design-VI
+# EE-322-Engineering-Design-VI
 ## I am in my third year at Stevens Institute of Technology studying electrical engineering.
 
 **This is my first time creating a GitHub repository**  
