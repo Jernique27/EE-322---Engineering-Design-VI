@@ -2,7 +2,7 @@
 ## I am in my third year at Stevens Institute of Technology studying electrical engineering.
 
 **This is my first time creating a GitHub repository.**  
-I am excited to learn about Github, Raspberry Pi, and Linux.
+I am excited to learn about GitHub, Raspberry Pi, and Linux.
 
 ---
 
