@@ -1,6 +1,8 @@
 # Class Takeaways :bookmark_tabs:
 This is a journal to document my takeaways from each class and any questions I had.  
 
+---
+
 ### 09/09/2024  
 **Learning** - There are 86 billion neurons in our brain. When we learn something new, we need to relate it to something that we already know. By making these connections, we grok it, and we are sure to remember since it becomes a part of us. Our brain forms new neural pathways and connections so that you are more likely to remember this new information.  
 
@@ -38,4 +40,6 @@ Etymology
 Success  
 * You shouldn't define or measure your success based on external rewards.
 * Rather, evaluate how the things you are doing bring internal meaning to you.
+
+---
 
