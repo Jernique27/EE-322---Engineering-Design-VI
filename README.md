@@ -34,8 +34,9 @@ I have coded in Arduino, C++ and Python. Here is a simple print statement in Pyt
 
 ---
 
-Here is my LinkedIn profile:
-[LinkedIn](https://www.linkedin.com/in/jernique-richardson-659573257/)
+Here are some relevant links:  
+[LinkedIn](https://www.linkedin.com/in/jernique-richardson-659573257/)  
+[Website](https://sites.google.com/stevens.edu/ee-322--engineering-design-vi/home)
 
 ---
 
