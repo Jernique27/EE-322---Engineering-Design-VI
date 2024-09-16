@@ -1,5 +1,5 @@
 # Practice
-## This is a space for me to practice what I learn in EE 322
+## This is a space for me to practice what I learn in EE 322 :thumbsup:
 
 ***Things that I learned:***  
 * When you create a file, you must include the file extension .md to create a file written in Markdown  
