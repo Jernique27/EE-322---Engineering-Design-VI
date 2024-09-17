@@ -41,5 +41,8 @@ Success
 * You shouldn't define or measure your success based on external rewards.
 * Rather, evaluate how the things you are doing bring internal meaning to you.
 
+Digital Twin
+* Cyber model of the physical system
+
 ---
 
