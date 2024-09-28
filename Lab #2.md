@@ -431,6 +431,83 @@ Path
 
 ---
 
-*
+* git clone
+```
+PS C:\Users\jrichar7> git clone https://github.com/kevinwlu/iot.git
+Cloning into 'iot'...
+remote: Enumerating objects: 24411, done.
+remote: Counting objects: 100% (5460/5460), done.
+remote: Compressing objects: 100% (1619/1619), done.
+remote: Total 24411 (delta 3093), reused 5404 (delta 3066), pack-reused 18951 (from 1)
+Receiving objects: 100% (24411/24411), 29.15 MiB | 5.67 MiB/s, done.
+Resolving deltas: 100% (15792/15792), done.
+```
+
+---
+
+* cd iot
+* ls
+```
+PS C:\Users\jrichar7> cd iot
+PS C:\Users\jrichar7\iot> ls
+
+
+    Directory: C:\Users\jrichar7\iot
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         9/28/2024   5:54 PM                apps
+d-----         9/28/2024   5:54 PM                cases
+d-----         9/28/2024   5:54 PM                design
+d-----         9/28/2024   5:54 PM                economics
+d-----         9/28/2024   5:54 PM                health
+d-----         9/28/2024   5:54 PM                hype
+d-----         9/28/2024   5:54 PM                lesson1
+d-----         9/28/2024   5:54 PM                lesson10
+d-----         9/28/2024   5:54 PM                lesson11
+d-----         9/28/2024   5:54 PM                lesson2
+d-----         9/28/2024   5:54 PM                lesson3
+d-----         9/28/2024   5:54 PM                lesson4
+d-----         9/28/2024   5:54 PM                lesson5
+d-----         9/28/2024   5:54 PM                lesson6
+d-----         9/28/2024   5:54 PM                lesson7
+d-----         9/28/2024   5:54 PM                lesson8
+d-----         9/28/2024   5:54 PM                lesson9
+d-----         9/28/2024   5:54 PM                make
+d-----         9/28/2024   5:54 PM                projects
+d-----         9/28/2024   5:54 PM                special_problems
+d-----         9/28/2024   5:54 PM                standards
+d-----         9/28/2024   5:54 PM                systems
+d-----         9/28/2024   5:54 PM                tools
+-a----         9/28/2024   5:54 PM          20558 README.md
+```
+
+---
+
+* cd
+* df
+```
+PS C:\Users\jrichar7\iot> cd
+PS C:\Users\jrichar7\iot> df
+Filesystem     1K-blocks      Used Available Use% Mounted on
+C:/msys64      497319932 262168804 235151128  53% /
+```
+---
+* mkdir demo
+```
+PS C:\Users\jrichar7\iot> mkdir demo
+
+
+    Directory: C:\Users\jrichar7\iot
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         9/28/2024   5:59 PM                demo
+
+```
+---
+* 
 
 
