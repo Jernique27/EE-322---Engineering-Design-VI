@@ -47,9 +47,41 @@ Digital Twin
 ---
 
 ### 09/23/2024  
-Inclusive Design: Put others first (empathy) - if you only focus on yourself, you cater to your needs only and the market size is just yourself.
+Inclusive Design: Put others first (empathy) - if you only focus on yourself, you cater to your needs only and the market size is just yourself.   
 
 Three Cs Mindset:
+1. Curiosity
+2. Connections
+3. Creating Value   
+
+Three Types of Problems: 
+1. Explanation
+2. Prediction
+3. Invention
+
+Hindsight, Insight, Foresight, Oversight   
+
+---
+
+### 9/30/2024   
+Grit
+* Etymology - sandpaper
+* Mindset - persevering; when the going gets tough, the tough get going
+
+Engineering is always an iterative process; focus on others and focus on function
+
+Kepner-Tregoe (KT) situation analysis
+
+Duncker Diagram
+* Don't start with the solution
+* Start with the present and desired states
+* Come up with several solutions
+
+---
+
+### 10/7/2024
+
+
 
 
 ---
