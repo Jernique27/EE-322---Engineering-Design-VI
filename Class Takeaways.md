@@ -47,6 +47,9 @@ Digital Twin
 ---
 
 ### 09/23/2024  
+Inclusive Design: Put others first (empathy) - if you only focus on yourself, you cater to your needs only and the market size is just yourself.
+
+Three Cs Mindset:
 
 
 ---
