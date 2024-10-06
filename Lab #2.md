@@ -518,7 +518,7 @@ Next, I created three txt files (testfile, testfile1, and testfile2) to run the 
   This command is used to view the contents of the file. Since the testfile.txt had the contents "testfile", this was displayed
 ![Screenshot 2024-10-06 011247](https://github.com/user-attachments/assets/8d3e42dc-089a-4e85-91e0-c6fe6980a92b)   
 ---
-* cp file file1
+* cp file file1   
 To run the cp command, I thought it would be a good idea to first display the original contents of each txt file before making any changes:   
 ![Screenshot 2024-10-06 011603](https://github.com/user-attachments/assets/6328d36f-a0a1-43e4-b30a-aea0bc80b9fe)   
 
@@ -579,7 +579,7 @@ C:\Users\jrichar7\iot\demo>uname -a
 MSYS_NT-10.0-22631 Jernique 3.3.6-341.x86_64 2022-09-06 08:02 UTC x86_64 Msys
 ```
 ---
-* ifconfig
+* ifconfig   
 Similarly, ifconfig is unique to Unix systems, while ipconfig is specific to Windows   
 ```
 C:\Users\jrichar7\iot\demo>ifconfig
