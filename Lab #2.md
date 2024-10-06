@@ -514,15 +514,156 @@ d-----         9/28/2024   5:59 PM                demo
 
 ---
 Next, I created three txt files (testfile, testfile1, and testfile2) to run the following commands. I saved them in the demo directory (that is, C:\Users\jrichar7\iot\demo>)
-*  cat file - this command is used to view the contents of the file. Since the testfile.txt had the contents "testfile", this was displayed
+*  cat file   
+  This command is used to view the contents of the file. Since the testfile.txt had the contents "testfile", this was displayed
 ![Screenshot 2024-10-06 011247](https://github.com/user-attachments/assets/8d3e42dc-089a-4e85-91e0-c6fe6980a92b)   
 ---
+* cp file file1
 To run the cp command, I thought it would be a good idea to first display the original contents of each txt file before making any changes:   
 ![Screenshot 2024-10-06 011603](https://github.com/user-attachments/assets/6328d36f-a0a1-43e4-b30a-aea0bc80b9fe)   
 
 Then I performed `cp testfile.txt testfile1.txt` and then `cat testfile1.txt` to verify that the contents of testfile.txt were copied to testfile1.txt:
 
-![Screenshot 2024-10-06 011904](https://github.com/user-attachments/assets/376f5069-cb4b-4d82-b8a0-a62104fef9b3)
+![Screenshot 2024-10-06 011904](https://github.com/user-attachments/assets/376f5069-cb4b-4d82-b8a0-a62104fef9b3)   
+
+---
+* mv file file1   
+This command either renames or moves a file. To demonstrate this, I performed `mv testfile.txt new_testfile.txt` and it renamed the file as shown in the directory of 'demo':
+```
+C:\Users\jrichar7\iot\demo>dir
+ Volume in drive C is OS
+ Volume Serial Number is D208-E3B0
+
+ Directory of C:\Users\jrichar7\iot\demo
+
+10/06/2024  01:23 AM    <DIR>          .
+09/28/2024  05:59 PM    <DIR>          ..
+10/06/2024  01:05 AM                 8 new_testfile.txt
+10/06/2024  01:18 AM                 8 testfile1.txt
+10/06/2024  01:05 AM                 9 testfile2.txt
+               3 File(s)             25 bytes
+               2 Dir(s)  257,700,794,368 bytes free
+```
+---
+* rm file
+This command removes a file, so I tested this using `rm new_testfile.txt:   
+```
+C:\Users\jrichar7\iot\demo>rm new_testfile.txt
+
+C:\Users\jrichar7\iot\demo>dir
+ Volume in drive C is OS
+ Volume Serial Number is D208-E3B0
+
+ Directory of C:\Users\jrichar7\iot\demo
+
+10/06/2024  01:27 AM    <DIR>          .
+09/28/2024  05:59 PM    <DIR>          ..
+10/06/2024  01:18 AM                 8 testfile1.txt
+10/06/2024  01:05 AM                 9 testfile2.txt
+               2 File(s)             17 bytes
+               2 Dir(s)  257,715,970,048 bytes free
+```
+---
+* clear
+This command cleared the previous output from the terminal:   
+![Screenshot 2024-10-06 013112](https://github.com/user-attachments/assets/4704d589-872a-4df4-a0e0-14b9da01de9d)
+
+---
+* man uname   
+`man` is not a command in Windows, but it is used to display the user manual for Unix OS. Instead, I used `help`:   
+![Screenshot 2024-10-06 013535](https://github.com/user-attachments/assets/c6f3a6fd-7400-4405-9753-5e8cc5b70cd8)
+---
+* uname -a
+```
+C:\Users\jrichar7\iot\demo>uname -a
+MSYS_NT-10.0-22631 Jernique 3.3.6-341.x86_64 2022-09-06 08:02 UTC x86_64 Msys
+```
+---
+* ifconfig
+Similarly, ifconfig is unique to Unix systems, while ipconfig is specific to Windows   
+```
+C:\Users\jrichar7\iot\demo>ifconfig
+'ifconfig' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jrichar7\iot\demo>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   IPv6 Address. . . . . . . . . . . : 2803:1500:1c00:d143:fa30:d29e:e820:46c
+   Temporary IPv6 Address. . . . . . : 2803:1500:1c00:d143:82b:cc94:3672:acb0
+   Link-local IPv6 Address . . . . . : fe80::a80a:2ddd:3dbd:7672%2
+   IPv4 Address. . . . . . . . . . . : 192.168.100.129
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%2
+                                       192.168.100.1
+```
+---
+* ping localhost
+```
+C:\Users\jrichar7\iot\demo>ping localhost
+
+Pinging Jernique [::1] with 32 bytes of data:
+Reply from ::1: time<1ms
+Reply from ::1: time<1ms
+Reply from ::1: time<1ms
+Reply from ::1: time<1ms
+
+Ping statistics for ::1:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+```
+---
+* netstat
+```
+C:\Users\jrichar7\iot\demo>netstat
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:4767         Jernique:49954         ESTABLISHED
+  TCP    127.0.0.1:49954        Jernique:4767          ESTABLISHED
+  TCP    192.168.100.129:49459  172.172.255.218:https  ESTABLISHED
+  TCP    192.168.100.129:52859  52.109.13.13:https     ESTABLISHED
+  TCP    192.168.100.129:54569  162.159.135.234:https  ESTABLISHED
+  TCP    192.168.100.129:54575  13.71.196.252:8883     ESTABLISHED
+  TCP    192.168.100.129:57644  52.96.122.34:https     ESTABLISHED
+  TCP    192.168.100.129:57646  52.109.13.13:https     ESTABLISHED
+  TCP    192.168.100.129:58628  lb-140-82-114-25-iad:https  ESTABLISHED
+  TCP    192.168.100.129:58641  52.167.161.91:https    TIME_WAIT
+  TCP    192.168.100.129:58652  20.127.250.238:https   ESTABLISHED
+  TCP    192.168.100.129:58664  51.104.15.253:https    ESTABLISHED
+  TCP    192.168.100.129:58666  bingforbusiness:https  ESTABLISHED
+  TCP    192.168.100.129:58667  bingforbusiness:https  ESTABLISHED
+  TCP    192.168.100.129:58668  bingforbusiness:https  ESTABLISHED
+  TCP    192.168.100.129:58671  bingforbusiness:https  ESTABLISHED
+  TCP    192.168.100.129:58673  192.168.100.229:ms-do  SYN_SENT
+  TCP    [2803:1500:1c00:d143:82b:cc94:3672:acb0]:58651  vj-in-xbc:5228         ESTABLISHED
+  TCP    [2803:1500:1c00:d143:82b:cc94:3672:acb0]:58661  [2606:4700:4400::6812:202f]:https  ESTABLISHED
+  TCP    [2803:1500:1c00:d143:82b:cc94:3672:acb0]:58663  [2606:4700:4400::ac40:9bd1]:https  ESTABLISHED
+  TCP    [2803:1500:1c00:d143:82b:cc94:3672:acb0]:58669  [2600:1f18:24e6:b902:a46c:a4a6:87fe:c14c]:https  ESTABLISHED
+```
+---
 
 
 
