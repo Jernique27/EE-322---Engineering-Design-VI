@@ -508,11 +508,22 @@ d-----         9/28/2024   5:59 PM                demo
 
 ```
 ---
-* cat file
-```
-```
+* cd demo   
+* nano file   
+![image](https://github.com/user-attachments/assets/37c8199f-4706-4980-8591-7e99857661d2)
+
 ---
-*
+Next, I created three txt files (testfile, testfile1, and testfile2) to run the following commands. I saved them in the demo directory (that is, C:\Users\jrichar7\iot\demo>)
+*  cat file - this command is used to view the contents of the file. Since the testfile.txt had the contents "testfile", this was displayed
+![Screenshot 2024-10-06 011247](https://github.com/user-attachments/assets/8d3e42dc-089a-4e85-91e0-c6fe6980a92b)   
+---
+To run the cp command, I thought it would be a good idea to first display the original contents of each txt file before making any changes:   
+![Screenshot 2024-10-06 011603](https://github.com/user-attachments/assets/6328d36f-a0a1-43e4-b30a-aea0bc80b9fe)   
+
+Then I performed `cp testfile.txt testfile1.txt` and then `cat testfile1.txt` to verify that the contents of testfile.txt were copied to testfile1.txt:
+
+![Screenshot 2024-10-06 011904](https://github.com/user-attachments/assets/376f5069-cb4b-4d82-b8a0-a62104fef9b3)
+
 
 
 
