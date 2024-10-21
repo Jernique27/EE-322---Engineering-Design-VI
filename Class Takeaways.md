@@ -85,3 +85,8 @@ Duncker Diagram
 
 
 ---
+
+### General Feedback
+Use "shall" for requirements and "should" for objectives   
+
+---
