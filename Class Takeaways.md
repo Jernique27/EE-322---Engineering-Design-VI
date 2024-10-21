@@ -88,7 +88,7 @@ Duncker Diagram
 
 ### 10/21/2024   
 IEEE Format
-* Fig.1 (then capitalize the first word, and end with a period)
+* Fig.1. (then capitalize the first word, and end with a period)
 * TABLE I (use of Roman numerals, then the caption is on the line below, capitalized as well. The table itself then comes below)   
 
 Abstractions:
