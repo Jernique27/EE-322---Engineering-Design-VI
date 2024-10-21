@@ -86,7 +86,31 @@ Duncker Diagram
 
 ---
 
+### 10/21/2024   
+IEEE Format
+* Fig.1 (then capitalize the first word, and end with a period)
+* TABLE I (use of Roman numerals, then the caption is on the line below, capitalized as well. The table itself then comes below)   
+
+Abstractions:
+* Occam's Razor and KISS Principle: It is always best to keep things simple
+* Goldilocks Principle: Not too much or not too little
+
+Formality in the Professional World   
+* The senior person should initiate the handshake. If they don't, then it is not necessary to shake their hand. Also, keep the handshake simple: one handshake.
+
+A picture is worth one thousand words:   
+* Visio
+* Unified Modeling Language (UML) software
+* Mermaid AI
+
+System vs Process   
+* A system shows the components and how they work together
+* A process shows step by step (flowchart)   
+
+---
+
 ### General Feedback
 Use "shall" for requirements and "should" for objectives   
+Use hypertext rather than hyperlink   
 
 ---
