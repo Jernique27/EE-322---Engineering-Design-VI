@@ -107,10 +107,38 @@ System vs Process
 * A system shows the components and how they work together
 * A process shows step by step (flowchart)   
 
----
+---   
+
+### 10/28/2024   
+Serendipity:
+* A fortunate outcome for a prepared mind: "In the fields of observation, chance favors only the prepared mind"
+
+Synthesis:   
+* Synthesis - putting things together; it is qualitative   
+* Analysis - the opposite of synthesis; it is quantitative   
+* Morphological Analysis - qualitative   
+
+Tacit/Explicit:   
+* Tacit: when you internalize something, it is implicit. It only becomes explicit when you tell someone else   
+* Richard Feynman - learning by teaching
+
+Setting SMART goals:   
+* Specific, Measurable, Achievable, Relevant, and Time-Bound
+
+Personal Wellbeing, MAGIC:   
+* Mindful, Active, Generous, Interested, Connected
+
+Pomodoro Technique:
+* Focus for 25 minutes, take a 5 minute break, and repeat   
+* Focus and Diffuse
+
+---   
 
 ### General Feedback
 Use "shall" for requirements and "should" for objectives   
 Use hypertext rather than hyperlink   
+
+For interviews, the interviewer initiates the handshake (regardless of age, gender, etc.)
+Desired salary? - Do not answer
 
 ---
