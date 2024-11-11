@@ -133,12 +133,28 @@ Pomodoro Technique:
 * Focus and Diffuse
 
 ---   
+### 11/04/2024   
+Ethics vs Morals
+* Ethics is a process and it is recognised by a group   
+* Morals are based on an individual's assessment of what is right and wrong
+
+---   
+### 11/11/2024   
+In automated systems, always leave room for human intervention
+To find the root cause of a problem, always ask why   
+Ishikawa's Fishbone Diagram   
+
+Power over Ethernet   
+
+---
 
 ### General Feedback
 Use "shall" for requirements and "should" for objectives   
 Use hypertext rather than hyperlink   
 
 For interviews, the interviewer initiates the handshake (regardless of age, gender, etc.)
-Desired salary? - Do not answer
+Desired salary? - Do not answer   
+
+APA Title Case Converter   
 
 ---
