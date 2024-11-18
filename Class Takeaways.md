@@ -147,7 +147,23 @@ Ishikawa's Fishbone Diagram
 Power over Ethernet   
 
 ---
+### 11/18/2024
+Remember that "shall" is used for requirements, and "should" is for objectives - this needs to be 'soldered' and 'embedded' in our minds!
+Design is an iterative process
 
+Selection Bias - In a group, different team members may have different perspectives
+Heuristics
+
+Duck Curve - useful in solar 
+Solar Power Tower - Seville, Spain
+
+Qunatitative 
+* Rank Ordering
+* Weighting Factor
+* Rating
+* Use the morphological chart for the design alternatives
+
+---
 ### General Feedback
 Use "shall" for requirements and "should" for objectives   
 Use hypertext rather than hyperlink   
@@ -156,5 +172,7 @@ For interviews, the interviewer initiates the handshake (regardless of age, gend
 Desired salary? - Do not answer   
 
 APA Title Case Converter   
+
+"Conclusion" NOT "Conclusions"
 
 ---
