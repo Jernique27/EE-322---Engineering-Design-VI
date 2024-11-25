@@ -151,7 +151,7 @@ Power over Ethernet
 Remember that "shall" is used for requirements, and "should" is for objectives - this needs to be 'soldered' and 'embedded' in our minds!
 Design is an iterative process
 
-Selection Bias - In a group, different team members may have different perspectives
+Selection Bias - In a group, different team members may have different perspectives   
 Heuristics
 
 Duck Curve - useful in solar 
@@ -173,15 +173,33 @@ Useful resources going into Senior Design:
 * [ECE Senior Design Site](https://sites.google.com/view/ece423)
 * Innovation Expo 2025: Canavan / May 9th   
 * [Capstone Marketplace](https://sercuarc.org/capstone-marketplace/)   
-* You need to be enrolled in your specific major's senior design class: EE 423/424
+* You need to be enrolled in your specific major's senior design class: EE 423/424, even if you are in an interdisciplinary team
 
 [Figma](https://www.figma.com/)   
 
+Mean time between failures (MTBF):The expected time between two failures of a repairable system   
+Mean time to failure (MTTF): The expected time to failire for a non-repairable system   
+Mean downtime (MDT):The mean time that the system is down after the failure
+  ![image](https://github.com/user-attachments/assets/56885ffe-72ca-41cc-ba4b-17629e4f63df)
+  
 User Experience (UX):   
 There are different types of testing:   
 * Alpha Testing: Internal testing
-* Beta Testing: Testing is opened up to the public. External users test a refined version of the product
+* Beta Testing: Testing is opened up to the public. External users test a refined version of the product   
 * A/B Testing - Users choose either option A or B
+
+Test Criteria:   
+A system consists of several modules or units
+* Unit Testing - Testing each individual module separately and independently
+* System Testing - All the units are integrated and the system is tested as a whole
+
+Energy Conservation:
+Most of our designs are digital - therefore, you don't need to continuously check for something, but rather, do this in fixed intervals. e.g. a system recording the temperature of the environment every 5 minutes   
+
+If you want to pursue a PhD in the future:
+* Read [Following the law](https://www.nature.com/articles/nj7124-228a) by Irving Herman
+
+IEEE uses APA format: useful for the Title Case Converter   
 
 
 
