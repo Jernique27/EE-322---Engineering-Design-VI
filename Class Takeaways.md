@@ -169,8 +169,21 @@ Low-hanging Fruit:
 * When you have little motivation to do something, but it needs to be done, it might be helpful to start with those tasks that are easy to accomplish.
 * This is useful in your professional career as well.
 
-Useful resources going into Senior Design:
-* ECE Senior Design Site: 
+Useful resources going into Senior Design:   
+* [ECE Senior Design Site](https://sites.google.com/view/ece423)
+* Innovation Expo 2025: Canavan / May 9th   
+* [Capstone Marketplace](https://sercuarc.org/capstone-marketplace/)   
+* You need to be enrolled in your specific major's senior design class: EE 423/424
+
+[Figma](https://www.figma.com/)   
+
+User Experience (UX):   
+There are different types of testing:   
+* Alpha Testing: Internal testing
+* Beta Testing: Testing is opened up to the public. External users test a refined version of the product
+* A/B Testing - Users choose either option A or B
+
+
 
 
 
