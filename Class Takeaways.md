@@ -164,6 +164,18 @@ Qunatitative
 * Use the morphological chart for the design alternatives
 
 ---
+### 11/25/2024
+Low-hanging Fruit:
+* When you have little motivation to do something, but it needs to be done, it might be helpful to start with those tasks that are easy to accomplish.
+* This is useful in your professional career as well.
+
+Useful resources going into Senior Design:
+* ECE Senior Design Site: 
+
+
+
+
+---
 ### General Feedback
 Use "shall" for requirements and "should" for objectives   
 Use hypertext rather than hyperlink   
