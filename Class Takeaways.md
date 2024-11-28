@@ -29,7 +29,7 @@ Metcalfe's Law
 * We learn from one another.
 
 System vs Process
-* A system depicts who things are configured and describes how things relate to one another. It describes the functional aspect of something.
+* A system depicts how things are configured and describes how things relate to one another. It describes the functional aspect of something.
 * A process outlines the steps and it describes the operational aspect of something.  
 
 Etymology  
